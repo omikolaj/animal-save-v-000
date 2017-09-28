@@ -13,5 +13,6 @@ html {
 @media only screen and (max-width: 1196px){
   img[alt="Careless Bear"]{
     color:red;
+    height: 0px;
   }
 }
